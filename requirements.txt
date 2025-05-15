@@ -1,0 +1,5 @@
+mediapipe==0.10.21
+tensorflow==2.12.0
+numpy>=1.22,<1.24
+opencv-python==4.7.0.72
+matplotlib==3.7.1
